@@ -1,5 +1,5 @@
 # FRC Team 4593 - Rapid Acceleration
-Welcome to the official GitHub organization for FRC Team 4593, Rapid Acceleration. We are a dedicated group of high school students passionate about engineering, programming, and teamwork, competing annual in the FIRST Robotics Competition (FRC). This is where you'll find all our past and current robot code.
+Welcome to the official GitHub organization for First Robotics Competition (FRC) Team 4593, Rapid Acceleration. We are a group of high school students who are passionate about engineering, programming, and teamwork. Every year we design, build, and code a robot to compete in the year's FIRST Robotics Competition challenge. This is where you'll find all our past and current robot code.
 
 ## Team History & Mission
 Team Mission Statement: "To provide an inspiring environment that fosters growth and appreciation in Science, Technology, Engineering, and Mathematics fields and business management through a strong relationship between mentors, students, and sponsors."
