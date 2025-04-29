@@ -11,6 +11,7 @@ In South Dakota, we are the only organization that has met the challenge to offe
 To learn more, visit our website at: [RapidAcceration.org](https://www.rapidacceleration.org/)
 
 ## Team Repositories
+### Competition
 * 2026 Rebuilt: Coming Soon on January 10, 2026!
 * 2025 Reefscape: [2025RapidAcceleration](https://github.com/RapidAcceleration-4593/2025RapidAcceleration)
 * 2024 Crescendo: [2024RapidAcceleration](https://github.com/RapidAcceleration-4593/2024RapidAcceleration)
@@ -22,6 +23,7 @@ To learn more, visit our website at: [RapidAcceration.org](https://www.rapidacce
 * 2017 Steamworks: [2017RapidAcceleration](https://github.com/RapidAcceleration-4593/2017RapidAcceleration)
 * 2016 Stronghold: [2016RapidAcceleration](https://github.com/RapidAcceleration-4593/2016RapidAcceleration)
 
+### Projects & References
 * Fit To Lift: [Fit-To-Lift](https://github.com/RapidAcceleration-4593/Fit-To-Lift)
 * Outreach Show Bot: [Show-Bot](https://github.com/RapidAcceleration-4593/Show-Bot)
 * Acceleration Station [AccelerationStation](https://github.com/TylerMueller08/AccelerationStation)
