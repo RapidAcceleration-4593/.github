@@ -11,13 +11,18 @@ In South Dakota, we are the only organization that has met the challenge to offe
 To learn more, visit our website at: [RapidAcceration.org](https://www.rapidacceleration.org/)
 
 ## Team Repositories
-* 2025 Reefscape: [2025RapidAcceleration](https://github.com/RapidAcceleration-4593/2025RapidAcceleration) - Current Season!
+* 2026 Rebuilt: Coming Soon on January 10, 2026!
+* 2025 Reefscape: [2025RapidAcceleration](https://github.com/RapidAcceleration-4593/2025RapidAcceleration)
 * 2024 Crescendo: [2024RapidAcceleration](https://github.com/RapidAcceleration-4593/2024RapidAcceleration)
 * 2023 Charged Up: [2023RapidAcceleration](https://github.com/RapidAcceleration-4593/2023RapidAcceleration)
 * 2022 Rapid React: [2022RapidAcceleration](https://github.com/RapidAcceleration-4593/2022RapidAcceleration)
-* 2021 Infinite Recharge: [2021RapidAcceleration](https://github.com/RapidAcceleration-4593/2021RapidAcceleration)
+* 2020-2021 Infinite Recharge: [2021RapidAcceleration](https://github.com/RapidAcceleration-4593/2021RapidAcceleration)
+* 2019 Destination Deep Space: [2019RapidAcceleration](https://github.com/RapidAcceleration-4593/2019RapidAcceleration)
+* 2018 Power Up: [2018RapidAcceleration](https://github.com/RapidAcceleration-4593/2018RapidAcceleration)
+* 2017 Steamworks: [2017RapidAcceleration](https://github.com/RapidAcceleration-4593/2017RapidAcceleration)
+* 2016 Stronghold: [2016RapidAcceleration](https://github.com/RapidAcceleration-4593/2016RapidAcceleration)
 
 * Fit To Lift: [Fit-To-Lift](https://github.com/RapidAcceleration-4593/Fit-To-Lift)
 * Outreach Show Bot: [Show-Bot](https://github.com/RapidAcceleration-4593/Show-Bot)
 * Acceleration Station [AccelerationStation](https://github.com/TylerMueller08/AccelerationStation)
-* Rapid Reusables (Common Library) [rapid-reusables](https://github.com/RapidAcceleration-4593/rapid-reusables)
+* Rapid Reusables (Common Library) [Rapid-Reusables](https://github.com/RapidAcceleration-4593/rapid-reusables)
