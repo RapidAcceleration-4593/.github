@@ -12,7 +12,7 @@ To learn more, visit our website at: [RapidAcceration.org](https://www.rapidacce
 
 ## Team Repositories
 ### Competition
-* 2026 Rebuilt: Coming Soon on January 10, 2026!
+* 2026 Rebuilt: [2026RapidAcceleration](https://github.com/RapidAcceleration-4593/2026RapidAcceleration) [Private]
 * 2025 Reefscape: [2025RapidAcceleration](https://github.com/RapidAcceleration-4593/2025RapidAcceleration)
 * 2024 Crescendo: [2024RapidAcceleration](https://github.com/RapidAcceleration-4593/2024RapidAcceleration)
 * 2023 Charged Up: [2023RapidAcceleration](https://github.com/RapidAcceleration-4593/2023RapidAcceleration)
