@@ -26,6 +26,6 @@ To learn more, visit our website at: [RapidAcceration.org](https://www.rapidacce
 ### Projects & References
 * Fit To Lift: [Fit-To-Lift](https://github.com/RapidAcceleration-4593/Fit-To-Lift)
 * Outreach Show Bot: [Show-Bot](https://github.com/RapidAcceleration-4593/Show-Bot)
-* Acceleration Station [AccelerationStation](https://github.com/TylerMueller08/AccelerationStation)
-* Coding Conventions [Coding-Conventions](https://github.com/RapidAcceleration-4593/Coding-Conventions)
-* Rapid Reusables (Common Library) [Rapid-Reusables](https://github.com/RapidAcceleration-4593/rapid-reusables)
+* Acceleration Station: [AccelerationStation](https://github.com/RapidAcceleration-4593/AccelerationStation)
+* Coding Conventions: [Coding-Conventions](https://github.com/RapidAcceleration-4593/Coding-Conventions)
+* Rapid Reusables (Common Library): [Rapid-Reusables](https://github.com/RapidAcceleration-4593/rapid-reusables)
